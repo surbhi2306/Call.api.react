@@ -1,5 +1,6 @@
 import React from "react";
 
+//functional component for form
 const Card = ({ first_name, last_name, email, avatar }) => {
   return (
     <div className="tc bg-light dib br3 grow bw2 m-3 pt-5">
